@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@uppy/aws-s3": "^4.0.1",
+    "@uppy/aws-s3-multipart": "^4.0.0",
     "@uppy/core": "^4.0.1",
     "@uppy/react": "^4.0.1",
     "@uppy/xhr-upload": "^4.0.2",
